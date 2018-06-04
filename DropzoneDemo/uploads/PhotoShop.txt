@@ -1,0 +1,14 @@
+﻿Alt + Delete : 填充前景色
+Ctr + D : 取消选区
+Ctrl + G : 创建组
+Alt + 移动工具V ：复制图层
+Shift + 矩形工具M ：画正方形
+选取相减 ： Alt
+选取相加 ：Shift
+选区相交 :  Alt + Shift
+Ctrl + Space : 放大
+Ctrl + 加号：放大
+Alt + Space : 缩小
+Ctrl + 1 : 100%
+Ctrl + J ：复制图层,
+Alt + 吸管工具：吸附颜色到前景色
